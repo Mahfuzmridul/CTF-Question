@@ -9,4 +9,3 @@ Since **Caesar cipher** is a commonly used simple shift cipher, we apply a **Cae
 Which will give the password: **"unzipme"** . This will extract a jpg image.
 
 ## 🔑 Step 2: Image metadata
-
