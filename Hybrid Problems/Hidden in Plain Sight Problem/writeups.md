@@ -19,3 +19,10 @@ This will extract a jpg image.
 
 ## 🔑 Step 2: Image metadata check
 
+As in the question it is given that **the flag is somewhere encoded and the right methode will extract the flag** and also the jpg file name is **find_flag32** which will refer to the **base32** encryption. The encrypted text will be in metadata so for that use **exiftool**. You will get a text. Just decode it and get the flag!!!!
+
+![image](https://github.com/user-attachments/assets/b0c9ecb2-863b-404e-8bca-3558aea1db90)  
+
+  
+
+![image](https://github.com/user-attachments/assets/69610fc8-49aa-4f6d-8070-1e98cbd618ac)
