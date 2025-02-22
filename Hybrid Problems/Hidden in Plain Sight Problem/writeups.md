@@ -25,4 +25,6 @@ As in the question it is given that **the flag is somewhere encoded and the righ
 
   
 
-![image](https://github.com/user-attachments/assets/69610fc8-49aa-4f6d-8070-1e98cbd618ac)
+![image](https://github.com/user-attachments/assets/69610fc8-49aa-4f6d-8070-1e98cbd618ac) <br> <br> <br> <br>
+
+# ☢️Thank you☢️
