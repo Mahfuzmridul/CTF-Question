@@ -12,7 +12,7 @@
 
 **A:** *Have you find it already??* 🔍
 
-**S:** *'O' haven't you notice any convo?? Thats your ip fool!! You are the one who gave it!!* 😅
+**S:** *'A' haven't you notice any convo?? Thats your ip fool!! You are the one who gave it!!* 😅
 
 **O:** *The organizer was good.* 🎯
 
