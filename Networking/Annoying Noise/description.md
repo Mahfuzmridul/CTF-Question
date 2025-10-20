@@ -4,21 +4,21 @@
 ## 🔍 Category: Networking  
 
 ### 📝 Description  
-**S:** The Cuckoo has a very melodious voice. But someone has it's opposite. 🐦‍⬛
+**S:** *The Cuckoo has a very melodious voice. But someone has it's opposite.* 🐦‍⬛
 
-**O:** The gusty beast?? 🌬️🐉
+**O:** *The gusty beast??* 🌬️🐉
 
-**M:** Super Noisy!! 🔊
+**M:** *Super Noisy!!* 🔊
 
-**A:** Have you find it already?? 🔍
+**A:** *Have you find it already??* 🔍
 
-**S:** 'O' haven't you notice any convo?? Thats your ip fool!! You are the one who gave it!! 😅
+**S:** *'O' haven't you notice any convo?? Thats your ip fool!! You are the one who gave it!!* 😅
 
-**O:** The organizer was good. 🎯
+**O:** *The organizer was good.* 🎯
 
-**M:** Do you guys know how to save some raw elements?? 🧪
+**M:** *Do you guys know how to save some raw elements??* 🧪
 
-**A:** It's quiet easy!! ✅
+**A:** *It's quiet easy!!* ✅
 
-**S:** Again our smart guy 'A' , Who has lack of knowledge. 🤦
+**S:** *Again our smart guy 'A' , Who has lack of knowledge.* 🤦
 
