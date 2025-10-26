@@ -17,14 +17,14 @@ hexedit barking
 ### 🕵️Here the header is showing GPN it was *"PNG"* and also the *"IHDR"* has changed to RHDI. That refers that its a png image and it's corrupted. If we see the PNG image header file structure it is like <br>
 <img width="727" height="242" alt="image" src="https://github.com/user-attachments/assets/24afa6c8-9074-402a-a650-86d79041b9a8" /> <br>
 
-### 🔎Look closly and you will see that every four bit chunk *"first"* and *"fouth"* bit swaped with each other.
+### 🔎Look closly and you will see that every four byte chunk *"first"* and *"fouth"* byte swaped with each other.
 
 <img width="727" height="242" alt="image" src="https://github.com/user-attachments/assets/fbe95293-eb79-4406-a260-953d51ac75f4" />
 <br> 
 
 ##
 
-## 📑Now swap the bits to fix it. We can use *"python"* script to swap the bits.
+## 📑Now swap the bytes to fix it. We can use *"python"* script to swap the bytes.
 
 ```python
 import sys
