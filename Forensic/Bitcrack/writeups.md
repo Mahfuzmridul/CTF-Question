@@ -43,7 +43,7 @@ hashcat -m 22100 -a 0 bitcrack.hash /usr/share/wordlists/rockyou.txt
 <img width="623" height="156" alt="image" src="https://github.com/user-attachments/assets/ef55fa69-b8fd-4baf-8dcc-31ae99972e6c" /> <br><br>
 <img width="1311" height="301" alt="image" src="https://github.com/user-attachments/assets/b6881f50-837d-4892-9a00-c3b7b0c99e58" />
 
-# Flag:
+# 🚩Flag:
 ```bash
 RCSC{disk_unlocking_is_fun_isnt_it!!}
 ```
