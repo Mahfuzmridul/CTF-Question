@@ -37,4 +37,46 @@ foremost easy_peasy.pcap
 ```bash
 hashcat -m 11600 -a 0 hash.txt /usr/share/wordlists/rockyou.txt
 ```
+<img width="1896" height="126" alt="image" src="https://github.com/user-attachments/assets/fb94424e-4f2d-41f2-807a-c8336f27fdb0" />
+
+### 🕷️So the password is: ***"crabwalk"***
+
+## 🎃Let's unzip the zip file with the password.
+```bash
+7z x -pcrabwalk suspicious.7z
+```
+<img width="726" height="548" alt="image" src="https://github.com/user-attachments/assets/3d4f4d5f-7175-48cd-8ae0-1444cf1067ee" /> <br><br>
+## 📑Here the unzippning data said that 3 files extracted but in the terminal you will see only two file.
+<img width="547" height="102" alt="image" src="https://github.com/user-attachments/assets/27305577-9322-417c-baba-09ea24d45f23" /> <br><br>
+
+## 🕷️But if you see the hidden files too there will be a hidden flag.
+<img width="749" height="407" alt="image" src="https://github.com/user-attachments/assets/73592e43-3574-4cbb-87cb-04ed03e59e25" /> <br>
+
+## 🧨That's how we will get the flag.
+# 🚩Flag:
+````bash
+RCSC{0pen_exp0rt_unZ1p_br3ak_g3t_fl4g}
+````
+<br><br><br><br>
+
+# ☢️Thank You☢️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
