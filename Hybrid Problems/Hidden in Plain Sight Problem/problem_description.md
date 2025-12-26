@@ -11,3 +11,6 @@ Once unlocked, **examine the contents carefully**—there’s more than meets th
 The final solution is encoded, and only the **right decoding technique** will reveal the flag.  
 
 Can you uncover the hidden truth? 🔓  
+
+
+#### Flag format: RCSC{some_text}
