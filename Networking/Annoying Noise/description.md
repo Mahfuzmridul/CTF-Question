@@ -22,3 +22,6 @@
 
 **S:** *Again our smart guy 'A' , Who has lack of knowledge.* 🤦
 
+
+#### Flag format: RCSC{some_text}
+
