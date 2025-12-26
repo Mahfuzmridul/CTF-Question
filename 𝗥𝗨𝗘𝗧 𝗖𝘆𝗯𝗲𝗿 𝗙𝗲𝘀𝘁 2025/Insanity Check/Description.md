@@ -5,7 +5,7 @@
 ### 📝 Description  
 WHAT RULES?
 
-### Discord Link: 
+### Discord Link: https://discord.gg/C7HvdWygb
 
 
 #### Flag format: RCSC{some_text}
