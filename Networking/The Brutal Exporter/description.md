@@ -20,3 +20,6 @@
 **A:** *Not only that, its* . . . . 
 
 **M:** *Shh!! keep quite 'A' . Dont tell anyone.*
+
+
+#### Flag format: RCSC{some_text}
