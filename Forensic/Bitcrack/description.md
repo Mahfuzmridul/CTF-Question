@@ -15,3 +15,5 @@
 **red_exploit:** *Bye!!*  
 **red_alpha:** *devil@32, it’s yours. Do what you want.*  
 **devil@32:** *Can anyone help?*
+
+#### Flag format: RCSC{some_text}
